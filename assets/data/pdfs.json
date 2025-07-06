@@ -1,0 +1,76 @@
+{
+  "categories": {
+    "Poems": {
+      "name": "Poems",
+      "description": "Tamil poetry and verses",
+      "icon": "📝",
+      "count": 1,
+      "pdfs": []
+    },
+    "Literature": {
+      "name": "Literature",
+      "description": "Tamil literature and novels",
+      "icon": "📚",
+      "count": 0,
+      "pdfs": []
+    },
+    "Thirukkural": {
+      "name": "Thirukkural",
+      "description": "Thiruvalluvar's Thirukkural",
+      "icon": "🏛️",
+      "count": 0,
+      "pdfs": []
+    },
+    "History": {
+      "name": "History",
+      "description": "Tamil history and heritage",
+      "icon": "🏺",
+      "count": 0,
+      "pdfs": []
+    },
+    "Tamil Grammar": {
+      "name": "Tamil Grammar",
+      "description": "Tamil language and grammar",
+      "icon": "📖",
+      "count": 0,
+      "pdfs": []
+    },
+    "English Translations": {
+      "name": "English Translations",
+      "description": "English translations of Tamil works",
+      "icon": "🌐",
+      "count": 0,
+      "pdfs": []
+    }
+  },
+  "pdfs": [
+    {
+      "id": "bba_001",
+      "title": "BBA",
+      "author": "Karthik",
+      "category": "Poems",
+      "description": "BBA document",
+      "tags": [
+        "bba",
+        "tamil",
+        "poems"
+      ],
+      "fileSize": "539 KB",
+      "pages": 0,
+      "language": "Tamil",
+      "year": 2024,
+      "viewUrl": "assets/pdfs/poems/BBA.pdf",
+      "downloadUrl": "assets/pdfs/poems/BBA.pdf",
+      "thumbnailUrl": "assets/images/thumbnails/bba_thumb.jpg",
+      "addedDate": "2024-01-15",
+      "downloads": 0,
+      "rating": 0.0,
+      "featured": true
+    }
+  ],
+  "metadata": {
+    "totalPdfs": 1,
+    "lastUpdated": "2024-01-15T10:00:00.000000",
+    "version": "1.0"
+  }
+}
